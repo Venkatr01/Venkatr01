@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Venkatr01
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java projects
+- 🌱 I’m currently learning frontend technologies
 - 📫 How to reach me vraju4865@gmail.com
 
 <!---
